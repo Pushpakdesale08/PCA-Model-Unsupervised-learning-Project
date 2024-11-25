@@ -6,15 +6,15 @@ This project demonstrates the application of Principal Component Analysis (PCA) 
 
 # Key Features-
 
-Dimensionality Reduction: Reduce high-dimensional datasets into fewer components for easier visualization and analysis.
+*Dimensionality Reduction: Reduce high-dimensional datasets into fewer components for easier visualization and analysis.
 
-Data Visualization: Project data onto 2D/3D spaces for clear, interpretable visualizations.
+*Data Visualization: Project data onto 2D/3D spaces for clear, interpretable visualizations.
 
-Clustering Integration: Combine PCA with clustering algorithms (e.g. K-Means clustering) to identify underlying patterns.
+*Clustering Integration: Combine PCA with clustering algorithms (e.g. K-Means clustering) to identify underlying patterns.
 
-Scalable Implementation: Works with large datasets using efficient computation methods.
+*Scalable Implementation: Works with large datasets using efficient computation methods.
 
-Customizable Options: Adjust the number of principal components and variance thresholds as needed.
+*Customizable Options: Adjust the number of principal components and variance thresholds as needed.
 
 
 
